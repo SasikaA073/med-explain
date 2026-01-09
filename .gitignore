@@ -1,0 +1,5 @@
+wandb/*
+__pycache__/*
+results_pathmnist/*
+best_model.pth
+data/*
