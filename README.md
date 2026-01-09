@@ -1,6 +1,6 @@
 # Med-Explain: ViT Interpretability on PathMNIST
 
-![Banner](assets/explain_methods.png)
+![Banner](explain_methods.png)
 
 This repository contains code for finetuning a Vision Transformer (ViT) on the PathMNIST dataset and evaluating its interpretability using CheferCAM and Attention Rollout.
 
