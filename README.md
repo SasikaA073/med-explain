@@ -55,5 +55,5 @@ This repository contains code for finetuning a Vision Transformer (ViT) on the P
     python perturbation_analysis.py
     ```
 
-## Acknowledgements
+## Base Repository
 This repository uses the [explainability-methods-various-models-experiments](https://github.com/SasikaA073/explainability-methods-various-models-experiments) repository as the base for the interpretability implementations (CheferCAM and Attention Rollout).
